@@ -1,2 +1,2 @@
 # BLACKJACK
-its our first game demo version
+this's our first game demo version
